@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "linkedom": "^0.18.12"
+  },
+  "name": "drag-invasion-quiz-royale",
+  "private": true,
+  "scripts": {
+    "test": "node --test frontend.test.cjs",
+    "check": "node --check app.js"
+  }
+}
